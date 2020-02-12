@@ -1,0 +1,5 @@
+Source: pb
+Version: 1.0
+Build-Depends: lua
+Description: protobuf lua support
+
